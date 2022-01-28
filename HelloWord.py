@@ -1,1 +1,1 @@
-print ("Bazinga")
+print ("Bazinga Mario")
