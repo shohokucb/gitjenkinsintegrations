@@ -1,0 +1,9 @@
+.git
+hooks
+info
+objects
+refs
+config
+description
+HEAD
+packed-refs
